@@ -1,0 +1,1 @@
+senha = 'senha do email da pessoa que envia dados'
